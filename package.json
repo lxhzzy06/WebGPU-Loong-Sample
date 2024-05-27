@@ -1,0 +1,26 @@
+{
+  "name": "rendering",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@types/stats.js": "^0.17.3",
+    "typescript": "^5.2.2",
+    "vite": "^5.2.0",
+    "vite-plugin-singlefile": "^2.0.1"
+  },
+  "dependencies": {
+    "@types/dat.gui": "^0.7.13",
+    "@webgpu/types": "^0.1.40",
+    "dat.gui": "^0.7.9",
+    "nipplejs": "^0.10.2",
+    "stats.js": "^0.17.0",
+    "webgpu-utils": "^1.7.2",
+    "wgpu-matrix": "^2.8.1"
+  }
+}
