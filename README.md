@@ -1,6 +1,7 @@
 对于 Bilin-Phong 光照模型、天空盒 以及 定向阴影映射 的 WebGPU 简单实现
 
 https://webgpu-loong-sample.netlify.app/
+https://webgpu-loong-sample.pages.dev/
 
 待实现: 
 
